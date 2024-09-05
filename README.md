@@ -4,6 +4,8 @@
 
 RAKsmart是一家提供高性能裸机云服务器的供应商，适用于各类站长和企业用户。RAKsmart的裸机服务器方案涵盖了多种配置，支持多机房选择，包括美国硅谷、洛杉矶、中国香港、日本、韩国、新加坡、德国法兰克福和台湾等地区，并提供大陆优化线路和国际BGP线路，能够满足用户不同的性能和网络需求。
 
+![RAKsmart裸机云服务器怎么样？RAKsmart介绍和测评](https://github.com/user-attachments/assets/5a6bc52f-8327-473a-9f9c-2fb44361eba8)
+
 ## RAKsmart 官网地址
 
 RAKsmart官网：[https://www.raksmart.com](https://billing.raksmart.com/whmcs/aff.php?aff=7337)
